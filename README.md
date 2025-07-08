@@ -14,7 +14,7 @@
 - 📚 Currently learning **DSA using Java**
 - 🌱 Always learning something new in tech
 - 🛠️ Building cool side projects, security labs, and Java solutions
-- 📫 Reach me at: **dhruvthehacker@gmail.com** *(customize this)*
+- 📫 Reach me at: **pdhruv14207@gmail.com**
 
 ---
 
@@ -36,7 +36,8 @@
 
 - [ ] ✅ **Sigma Web Dev Course Projects**
 - [ ] ☕ **DSA with Java** – 450 Sheet, Leetcode
-- [ ] 🛡️ **Cybersecurity Labs** with Nmap, Termux, Wireshark
+- [ ] 🏫 **Collage Study Focus** - Subjects
+- [ ] 🛡️ **Cybersecurity Labs** with Nmap, Termux, Wireshark etc.
 - [ ] 🌍 Build a Portfolio & Host on GitHub Pages
 
 ---
@@ -55,8 +56,8 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/hackwithdp)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/pdhruv_8)
 
 ---
 
