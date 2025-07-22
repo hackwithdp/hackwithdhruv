@@ -51,6 +51,24 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackwithdhruv&layout=compact&theme=radical" />
 </p>
+# 💼 Personal Portfolio Website
+
+This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. It showcases my projects, skills, and contact details.
+
+## 🚀 Features
+- Responsive Design using Flexbox
+- About, Projects, and Contact Sections
+- Clean UI with simple animations
+
+## 🔧 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+
+## 🌐 Live Site
+[View Portfolio](https://hackwithdp.github.io/CODSOFT/Task1-Portfolio)
+
+## 📁 Folder Structure
 
 ---
 
