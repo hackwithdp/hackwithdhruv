@@ -68,13 +68,6 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 ## 🌐 Live Site
 [View Portfolio](https://hackwithdp.github.io/CODSOFT/Task1-Portfolio)
 
-📁 ProjectRoot
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│   └── profile.png
-└── README.md>
 
 ---
 
