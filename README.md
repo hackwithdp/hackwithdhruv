@@ -69,6 +69,10 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 [View Portfolio](https://hackwithdp.github.io/CODSOFT/Task1-Portfolio)
 
 ## 📁 Folder Structure
+📁 root
+├── index.html
+├── style.css
+└── README.md
 
 ---
 
